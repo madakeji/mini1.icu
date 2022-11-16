@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="278f997d-f2c5-405f-bc9c-443734cf4703" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/XEhtml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/XEhtml.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download.html" beforeDir="false" afterPath="$PROJECT_DIR$/download.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pngg/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pngg/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/png/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pngg/bilibili.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/bilibili.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pngg/blogo_img_sc.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/blogo_img_sc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pngg/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pngg/qq.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/png/qq.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pngg/qqzf.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/qqzf.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pngg/wx.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/wx.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pngg/wx1.png" beforeDir="false" afterPath="$PROJECT_DIR$/png/wx1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pngg/xe.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/png/xe.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/money.html" beforeDir="false" afterPath="$PROJECT_DIR$/money.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
